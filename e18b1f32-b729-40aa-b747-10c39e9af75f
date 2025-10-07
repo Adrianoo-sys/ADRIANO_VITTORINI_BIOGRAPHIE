@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adriano Vittorini – BJJ Kämpfer</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 2rem;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 1.5rem;
+        }
+        ul {
+            padding-left: 1.2rem;
+        }
+        li {
+            margin-bottom: 0.5rem;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Adriano Vittorini – Brazilian Jiu-Jitsu Kämpfer</h1>
+        <p><strong>Alter:</strong> 15 Jahre</p>
+        <p><strong>Wohnort:</strong> St. Gallen, Schweiz</p>
+        <p><strong>Kampfsport-Erfahrung:</strong> Keine Vorerfahrung – direkt mit BJJ gestartet</p>
+        <p><strong>Trainingszeit:</strong> Seit 2 Monaten aktiv</p>
+        <p><strong>Team:</strong> BJJ Team St. Gallen</p>
+
+        <h2>🏆 Turniererfolge</h2>
+        <ul>
+            <li>🥇 1. Platz beim Inhouse-Turnier im Buddy Gym</li>
+            <li>🥈 2. Platz beim SWISS BRAZILIAN JIU JITSU & GRAPPLING TOURNAMENT</li>
+        </ul>
+
+        <h2>🌟 Besonderheit</h2>
+        <ul>
+            <li>Gilt als außergewöhnlich talentiert für sein Alter und Trainingsstand</li>
+            <li>Technisches Verständnis weit über dem Niveau eines typischen Weißgurts</li>
+            <li>Mentale Stärke und Wettkampferfolg bereits nach kurzer Trainingszeit</li>
+            <li>Vergleichbar mit Kämpfern, die seit einem Jahr oder länger trainieren</li>
+            <li>Natürliches Gefühl für Timing, Position und Kontrolle</li>
+        </ul>
+
+        <h2>🎯 Ziele</h2>
+        <ul>
+            <li>Schneller Aufstieg zum Blaugurt</li>
+            <li>Teilnahme an nationalen und internationalen Turnieren</li>
+            <li>Aufbau eines starken Wettkampfprofils</li>
+            <li>Langfristig: Top-Platzierungen in Jugendklassen auf europäischer Ebene</li>
+        </ul>
+    </div>
+</body>
+</html>
